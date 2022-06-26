@@ -1,0 +1,28 @@
+# The data we need to retrieve
+# 1 The total number of votes cast
+# 2 A complete list of the candidates who recived votes
+# 3 the precentage of votes each canidadzte won
+# 4 the total numberof votes each candidate won
+# 5 the winner of the electuon based on popular vote
+
+# importing librays
+import csv
+import os
+
+
+# assingning varible to our load path
+file_to_load = os.path.join("Resources", "election_results.csv")
+
+# assinging varible to our save path
+file_to_save = os.path.join("analysis", "election_analysis.txt")
+
+# opening our data
+with open (file_to_load) as election_data:
+
+   file_reader = csv.reader(election_data)
+
+   headers = next(file_reader)
+
+   
+
+
