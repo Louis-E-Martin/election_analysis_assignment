@@ -19,3 +19,8 @@ This election audit was carryed out to find the number of people who voted, who 
 * Charles Casper Stockham: 23.0% (85,213)
 * Diana DeGette: 73.8% (272,892)
 * Raymon Anthony Doane: 3.1% (11,606)
+
+### Election winner:
+* Winner: Diana DeGette
+* Winning Vote Count: 272,892
+* Winning Percentage: 73.8%
