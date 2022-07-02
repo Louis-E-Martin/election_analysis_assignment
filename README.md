@@ -4,10 +4,10 @@ This election audit was carryed out to find the number of people who voted, who 
 
 ## Election Audit Results
 ### Number of votes cast: 
-*369,711
+* 369,711
 
 
 ### County Votes:
-*Jefferson: 10.5% (38,855)
-*Denver: 82.8% (306,055)
-*Arapahoe: 6.7% (24,801)
+* Jefferson: 10.5% (38,855)
+* Denver: 82.8% (306,055)
+* Arapahoe: 6.7% (24,801)
